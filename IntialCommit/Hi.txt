@@ -1,3 +1,4 @@
 HI
 from branch1
 conflict create1 main
+Pushing same data to the multiple branch
